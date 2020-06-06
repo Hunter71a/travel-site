@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("alert(\"SHUT UP, CHUMP!\")\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
+eval("alert(\"SHUT UP, CHUMP!!!!\")\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
 
 /***/ })
 
