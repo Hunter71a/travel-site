@@ -1,1 +1,1 @@
-alert("The sky is blue")
+alert("SHUT UP, CHUMP!")
