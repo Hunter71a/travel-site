@@ -1,5 +1,6 @@
 @import "normalize.css";
 @import "base/_variables"; /* import variables before modules where variables used */
+@import "base/_mixins";
 @import "base/_global";
 
 
